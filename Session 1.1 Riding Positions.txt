@@ -1,0 +1,56 @@
+3590#Warm Up: Six (6) minutes:  Zone 2; Zone 3; Zone 4
+120#Two (2) Minutes at Zone 2
+120#Two (2) Minutes at Zone 3
+120#Two (2) Minutes at Zone 4
+120#Two (2) Minutes Active Recovery 
+0#On the Bars: Three (3) Steps: Increasing Cadence
+120#Two (2) Minutes; Upper Zone 2, Cadence 85, Back on Saddle
+30#Thirty (30) Seconds; Active Recovery
+120#Two (2) Minutes; Upper Zone 2, Cadence 95
+30#Thirty (30) Seconds; Active Recovery
+120#Two (2) Minutes; Upper Zone 2, Cadence 105, Forward on Saddle
+60#One (1) Minute; Active Recovery
+0#On the Hoods: Three (3) Steps: Increasing Cadence
+120#Two (2) Minutes; Upper Zone 2, Cadence 90
+30#Thirty (30) Seconds; Active Recovery
+120#Two (2) Minutes; Upper Zone 2, Cadence 95
+30#Thirty (30) Seconds; Active Recovery
+120#Two (2) Minutes; Upper Zone 2, Cadence 100
+60#One (1) Minute; Active Recovery
+0#In the Drops: Three (3) Steps: Increasing Cadence
+120#Two (2) Minutes; Upper Zone 2, Cadence 90
+60#One (1) Minute Active Recovery
+120#Two (2) Minutes; Upper Zone 3, Cadence 100, Back on Saddle
+60#One (1) Minute; Active Recovery
+120#Two (2) Minutes; Upper Zone 3, Cadence 110, Forward on Saddle
+60#One (1) Minute; Active Recovery
+0#Standing: Three (3) Steps: Increasing Cadence
+30#Thirty (30) Seconds; Cadence 60
+30#Thirty (30) Seconds; Active Recovery
+60#One (1) Minute; Cadence 70
+30#Thirty (30) Seconds; Active Recovery
+60#One (1) Minute; Cadence 80
+120#One (1) Minute; Active Recovery
+0#All Together Now: Variable Length, Variable Positions, Active Recovery
+240#Four (4) Minutes; Upper Zone 2, Hoods, Cadence 90
+20#Twenty (20) Seconds Hoods; Mini-Squat
+60#One (1) Minute Standing; Cadence 80
+60#One (1) Minute; Active Recovery
+180#Three (3) Minutes; Bars, Upper Zone 2, Cadence 90
+20#Twenty (20) Seconds Bars; Mini-Squat
+60#One (1) Minute Standing; Cadence over 80
+60#One (1) Minute; Active Recovery
+180#Three (3) Minutes; Drops Upper Zone 2, Cadence 100
+20#Twenty (20) Seconds Drops; Mini-Squat
+120#Two (2) Minutes; Hoods, Upper Zone 2, Cadence 95
+60#One (1) Minute Standing; Cadence over 100
+20#Twenty (20) Seconds Standing; Mini-Squat
+60#One (1) Minute; Active Recovery
+0#Cool Down: Four (4) minutes: 2 Minute Zone 2; 2 Minutes Zone 1;
+120#Two Minutes at Zone 2
+120#Two Minutes at Zone 1
+0#Stretching: The Four Stretches
+15#1. Standing Twist
+15#2. Abdominal Stretch
+15#3. Thread the Needle
+15#4. Off the back Leg Stretcher

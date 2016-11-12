@@ -1,0 +1,6 @@
+Session 1 Exercize 1#Build Strength and Endurance#TestWorkout.txt
+Session 2 Exercize 2#Build Speed and Agility
+Session 3 Exercize 3#Build Stamina on Hills
+Session 4 Exercize 4#Build Fortitude
+Session 5 Exercize 5#Build a Better Pdeal Stroke
+Session 6 Exercize 6#Give Up and Go Home

@@ -1,0 +1,60 @@
+Summary#3685#Session 1.1 Fundamentals
+Warm Up#480#Warm UpSix (6) minutes:  Zone 2; Zone 3; Zone 4
+d#120#  Two (2) Minutes at Zone 2
+d#120#  Two (2) Minutes at Zone 3
+d#120#  Two (2) Minutes at Zone 4
+d#120#  Two (2) Minutes Active Recovery 
+Balanced Legs #510#Balanced Legs Four (4) Sets: Right leg, Left Leg
+d#30#  1. Thirty (30) Seconds Zone 2 - Right Leg Only
+d#30#  1. Thirty (30) Seconds; Active Recovery - Both Legs
+d#30#  1. Thirty (30) Seconds Zone 2 - Left Leg Only
+d#30#  1. Thirty (30) Seconds; Active Recovery
+d#30#  2. Thirty (30) Seconds Zone 2 - Right Leg Only
+d#30#  2. Thirty (30) Seconds; Active Recovery
+d#30#  2. Thirty (30) Seconds Zone 2 - Left Leg Only
+d#30#  2. Thirty (30) Seconds; Active Recovery
+d#30#  3. Thirty (30) Seconds Zone 2 - Right Leg Only
+d#30#  3. Thirty (30) Seconds; Active Recovery
+d#30#  3. Thirty (30) Seconds Zone 2 - Left Leg Only
+d#30#  3. Thirty (30) Seconds; Active Recovery
+d#30#  4. Thirty (30) Seconds Zone 2 - Right Leg Only
+d#30#  4. Thirty (30) Seconds; Active Recovery
+d#30#  4. Thirty (30) Seconds Zone 2 - Left Leg Only
+d#60#  4. One (1) Minutes Active Recovery
+Pedaling Circles#1260#Pdealing Circles Four (4) Sets:  Zone 2;  Active Recovery
+d#240#  1. Four (4) Minutes Zone 2, Cadence 90
+d #60#  1. One (1) Minute Active Recovery 
+d#240#  2. Four (4) Minutes Zone 2, Cadence 80
+d#60#  2. One (1) Minute Active Recovery
+d#240#  3. Four (4) Minutes Zone 2, Cadence 100
+d#60#  3. One (1) Minute Active Recovery
+d#240#  4. Four (4) Minutes Zone 2, Cadence 70
+d#120#  4. One (1) Minute Active Recovery
+Breathing#460#BreathingThree (3) Sets: Right leg, Left Leg
+d#40#  1. Forty (40) Seconds Zone 2 - Right Leg Only
+d#20#  1. Twenty (20) Seconds; Active Recovery
+d#40#  1. Forty (40) Seconds Zone 2 - Left Leg Only
+d#20#  1. Twenty (20 Seconds; Active Recovery
+d#40#  2. Forty (40)) Seconds Zone 2 - Right Leg Only
+d#20#  2. Twenty (20 Seconds; Active Recovery
+d#40#  2. Forty (40) Seconds Zone 2 - Left Leg Only
+d#20#  2. Twenty (20 Seconds; Active Recovery
+d#40#  3. Forty (40) Seconds Zone 2 - Right Leg Only
+d#20#  3. Twenty (20 Seconds; Active Recovery
+d#40#  3. Forty (40) Seconds Zone 2 - Left Leg Only
+d#120#  3. Two (2) Minutes; Active Recovery
+Relaxed Posture#675#Relaxed PostureThree (3) Sets: Zone 2;  Active Recovery
+d#180#  1. Three (3) Minutes Zone 2, Cadence 90
+d#45#  1. Fourty-Five (45) Seconds Active Recovery 
+d#180#  2. Three (3) Minutes Zone 2, Cadence 95
+d#45#  2. Fourty-Five (45) Seconds Active Recovery 
+d#180#  3. Three (3) Minutes Zone 2, Cadence 100
+d#45#  3. Fourty-Five (45) Seconds Active Recovery 
+Cool Down#240#Cool DownFour (4) minutes: Zone 2;  Zone 1;
+d#120#  Two minutes at Zone 2
+d#120#  Two minutes at Zone 1
+Stretching#60#Stretching The Four Stretches
+d#15#  1. Standing Twist
+d#15#  2. Abdominal Stretch
+d#15#  3. Thread the Needle
+d#15#  4. Off the back Leg Stretcher

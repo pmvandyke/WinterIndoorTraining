@@ -1,0 +1,10 @@
+Session 2.0 Leg Strength 1
+Session 2.1 Leg Strength 2
+Session 2.2 Tempo Builder 1
+Session 2.3 Tempo Builder 2
+Session 2.4 Climbing Strength 1
+Session 2.5 Climbing Strength 2
+Session 2.6 Cadence 1
+Session 2.7 Cadence 2
+Session 2.8 Sprinting 1
+Session 2.9 Sprinting 2

@@ -1,0 +1,57 @@
+3660#Summary: Task
+3660#Warm Up: Six (6) minutes:  2 minute Zone 2; 2 minutes Zone 3; 2 minute Zone 4
+120#Two (2) Minutes at Zone 2
+120#Two (2) Minutes at Zone 3
+120#Two (2) Minutes at Zone 4
+120#Two (2) Minutes Active Recovery 
+0#One Leg Drill: Siz (6) Sets: Right leg, Left Leg
+45#1. Fourty Five (45) Seconds Zone 2 - Right Leg Only
+45#1. Fourty Five (45) Seconds Zone 2 - Left Leg Only
+30#1. Thirtyty (30) Seconds; Active Recovery - Both Legs
+45#2. Fourty Five (45) Seconds Zone 2 - Right Leg Only
+45#2. Fourty Five (45) Seconds Zone 2 - Left Leg Only
+30#2. Thirtyty (30) Seconds; Active Recovery - Both Legs
+45#3. Fourty Five (45) Seconds Zone 3 - Right Leg Only
+45#3. Fourty Five (45) Seconds Zone 3 - Left Leg Only
+30#3. Thirtyty (30) Seconds; Active Recovery - Both Legs
+45#4. Fourty Five (45) Seconds Zone 3 - Right Leg Only
+45#4. Fourty Five (45) Seconds Zone 3 - Left Leg Only
+30#4. Thirtyty (30) Seconds; Active Recovery - Both Legs
+45#5. Fourty Five (45) Seconds Zone 4 - Right Leg Only
+45#5. Fourty Five (45) Seconds Zone 4 - Left Leg Only
+30#5. Thirtyty (30) Seconds; Active Recovery - Both Legs
+45#6. Fourty Five (45) Seconds Zone 4 - Right Leg Only
+45#6. Fourty Five (45) Seconds Zone 4 - Left Leg Only
+30#6. Thirtyty (30) Seconds; Active Recovery - Both Legs
+120#Two (2) Minutes Active Recovery 
+0#Cadence Builder: Six (6) Sets: Five (5) Minute Intervals, Active Recovery
+120#1.Two (2) Minutes Zone 3; Cadence 95 - 105 Small Ring
+60#1. One (1) Minute Active Recovery
+120#2. Two (2) Minutes Zone 3; Cadence 85 - 95 Big Ring
+60#2. One (1) Minute Active Recovery
+120#3. Two (2) Minutes Zone 3; Cadence 95 - 105 Small Ring
+60#3. One (1) Minute Active Recovery
+120#4. Two (2) Minutes Zone 3; Cadence 85 - 95 Big Ring
+60#4. One (1) Minute Active Recovery
+120#5.Two (2) Minutes Zone 3; Cadence 95 - 105 Small Ring
+60#5. One (1) Minute Active Recovery
+120#6. Two (2) Minutes Zone 3; Cadence 85 - 95 Big Ring
+60#6. One (1) Minute Active Recovery
+180#1. Three (3) Minutes Active Recovery
+0#Power Builder: Four (4) minutes: 2 Minute Zone 2; 2 Minutes Zone 1;
+120#1. Two (2) Minutes Zone 3, Cadence 70 - 80
+60#1. One (1) Minute Active Recovery
+120#2. Two (2) Minutes Zone 3, Cadence 70 - 80 Shift Down
+60#2. One (1) Minute Active Recovery
+120#3. Two (2) Minutes Zone 3, Cadence 70 - 80 Shift Down
+60#3. One (1) Minute Active Recovery
+120#4. Two (2) Minutes Zone 3, Cadence 70 - 80 Shift Down
+120#4. Two (2) Minutes Active Recovery
+0#Cool Down: Four (4) minutes: 2 Minute Zone 2; 2 Minutes Zone 1;
+120#Two Minutes at Zone 2
+120#Two Minutes at Zone 1
+0#Stretching: The Four Stretches
+15#1. Standing Twist
+15#2. Abdominal Stretch
+15#3. Thread the Needle
+15#4. Off the back Leg Stretcher

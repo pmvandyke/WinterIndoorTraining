@@ -1,0 +1,49 @@
+3660#Warm Up: Six (6) minutes:  2 minuteat  Zone 2; 3, 4
+120#Two (2) Minutes at Zone 2
+120#Two (2) Minutes at Zone 3
+120#Two (2) Minutes at Zone 4
+120#Two (2) Minutes Active Recovery 
+0#One Leg Drill: Siz (6) Sets: Right leg, Left Leg
+20#1. Twenty (20) Seconds Zone 2 - Right Leg Only
+20#1. Twenty (20) Seconds Zone 2 - Left Leg Only
+20#1. Twenty (20) Seconds; Active Recovery - Both Legs
+20#2. Twenty (20) Seconds Zone 2 - Right Leg Only
+20#2. Twenty (20) Seconds Zone 2 - Left Leg Only
+20#2. Twenty (20) Seconds; Active Recovery - Both Legs
+20#3. Twenty (20) Seconds Zone 2 - Right Leg Only
+20#3. Twenty (20) Seconds Zone 2 - Left Leg Only
+20#3. Twenty (20) Seconds; Active Recovery - Both Legs
+20#4. Twenty (20) Seconds Zone 2 - Right Leg Only
+20#4. Twenty (20) Seconds Zone 2 - Left Leg Only
+20#4. Twenty (20) Seconds; Active Recovery - Both Legs
+20#5. Twenty (20) Seconds Zone 2 - Right Leg Only
+20#5. Twenty (20) Seconds Zone 2 - Left Leg Only
+20#5. Twenty (20) Seconds; Active Recovery - Both Legs
+20#6. Twenty (20) Seconds Zone 2 - Right Leg Only
+20#6. Twenty (20) Seconds Zone 2 - Left Leg Only
+20#6. Twenty (20) Seconds; Active Recovery - Both Legs
+120#Two (2) Minutes Active Recovery 
+0#Sustained Effort: Six (6) Sets: Five (5) Minute Intervals, Active Recovery
+300#1. Five (5) Minutes Zone 3; Cadence 85 - 95
+60#1. One (1) Minute Active Recovery
+300#2. Five (5) Minutes Zone 3; Cadence 95 - 105
+60#2. One (1) Minute Active Recovery
+300#3. Five (5) Minutes Zone 3; Cadence 85 - 95
+60#3. One (1) Minute Active Recovery
+300#4. Five (5) Minutes Zone 3; Cadence 95 - 105
+60#4. One (1) Minute Active Recovery
+300#5. Five (5) Minutes Zone 3; Cadence 85 - 95
+60#5. One (1) Minute Active Recovery
+0#High Cadence: Two (2) Sets: Three (3) Minute Zone 4
+180#1. Three (3) Minutes Zone 4, Max Cadence - Build up to it
+120#1. Two (2) Minutes Active Recovery
+180#2. Three (3) Minutes Zone 4, Max Cadence - Build up to it
+120#2. Two (2) Minutes Active Recovery
+0#Cool Down: Four (4) minutes: 2 Minute Zone 2; 2 Minutes Zone 1;
+120#Two Minutes at Zone 2
+120#Two Minutes at Zone 1
+0#Stretching: The Four Stretches
+15#1. Standing Twist
+15#2. Abdominal Stretch
+15#3. Thread the Needle
+15#4. Off the back Leg Stretcher

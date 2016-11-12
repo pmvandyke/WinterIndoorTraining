@@ -1,0 +1,28 @@
+3600#Warm Up: Six (6) minutes:  2 minute  at Zone 2, 3, 4
+120#Two (2) Minutes at Zone 2
+120#Two (2) Minutes at Zone 3
+120#Two (2) Minutes at Zone 4
+120#Two (2) Minutes Active Recovery 
+0#Tempo Pyramid: Seven (7) Sets: Cadence 90 (Bg Cog), Increasing/Decreasing Durations
+120#1. Two (2) Minutes; Zone 2 +
+60#1. One (1) Minute; Active Recovery
+240#2. Four (4) Minutes; Zone 2 +
+60#2. Two (2) Minutes; Active Recovery
+360#3. Six (6) Minutes; Zone 2 +
+180#3. Three (3) Minutae; Active Recovery
+480#4. Eight (8) Minutes; Zone 2 +
+240#4. Four (4) Minutes; Active Recovery
+360#5. Six (6) Minutes; Zone 2 +
+180#5. Three (3) Minutae; Active Recovery
+240#6. Four (4) Minutes; Zone 2 +
+120#6. Two (2) Minutes; Active Recovery
+60#7. One (1) Minute; Zone 2 +
+120#7. Two (2) Minutes Active Recovery 
+0#Cool Down: Four (4) minutes: 2 Minute Zone 2; 2 Minutes Zone 1;
+120#Two Minutes at Zone 2
+120#Two Minutes at Zone 1
+0#Stretching: The Four Stretches
+15#1. Standing Twist
+15#2. Abdominal Stretch
+15#3. Thread the Needle
+15#4. Off the back Leg Stretcher

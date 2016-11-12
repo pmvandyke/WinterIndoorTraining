@@ -1,0 +1,23 @@
+0#WinterWorkout#Session 1.1 Fundamentals#
+1#WinterWorkout#Session 1.2 Riding Positions#
+2#WinterWorkout#Session 2.1 Cardio-Vascular#
+3#WinterWorkout#Session 2.2 Leg Power#
+4#WinterWorkout#Session 3.1 Standard Cadences#
+5#WinterWorkout#Session 3.2 Rolling Hills#
+6#WinterWorkout#Session 4.1 Flat Roads#
+7#WinterWorkout#Session 4.2 Long Big Hills#
+8#WinterWorkout#Session 5.1 Sprinting#
+9#WinterWorkout#Session 5.2 Time Trial#
+0#SpringWorkout#Session 2.0 Leg Strength 1
+1#SpringWorkout#Session 2.1 Leg Strength 2
+2#SpringWorkout#Session 2.2 Tempo Builder 1
+3#SpringWorkout#Session 2.3 Tempo Builder 2
+4#SpringWorkout#Session 2.4 Climbing Strength 1
+5#SpringWorkout#Session 2.5 Climbing Strength 2
+6#SpringWorkout#Session 2.6 Cadence 1
+7#SpringWorkout#Session 2.7 Cadence 2
+8#SpringWorkout#Session 2.8 Sprinting 1
+9#SpringWorkout#Session 2.9 Sprinting 2
+0#SummerWorkout#Session 3.0 Max Power
+1#SummerWorkout#Session 3.1 One Minute Effort
+0#FallWorkout#Test Workout

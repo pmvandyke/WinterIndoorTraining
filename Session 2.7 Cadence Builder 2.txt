@@ -1,0 +1,47 @@
+3660#Warm Up: Six (6) minutes:  2 minuteat  Zone 2; 3, 4
+120#Two (2) Minutes at Zone 2
+120#Two (2) Minutes at Zone 3
+120#Two (2) Minutes at Zone 4
+120#Two (2) Minutes Active Recovery 
+0#One Leg Drill: Six (6) Sets: Right leg, Left Leg
+60#1. One (1) Minute; Zone 2 - Right Leg Only
+30#1. Thirty (30) Seconds; Active Recovery - Both Legs
+30#1. One (1) Minute; Zone 2 - Left Leg Only
+30#1. Thirty (30) Seconds; Active Recovery - Both Legs
+60#2. One (1) Minute; Zone 2 - Right Leg Only
+30#2. Thirty (30) Seconds; Active Recovery - Both Legs
+30#2. One (1) Minute; Zone 2 - Left Leg Only
+30#2. Thirty (30) Seconds; Active Recovery - Both Legs
+60#3. One (1) Minute; Zone 2 - Right Leg Only
+30#3. Thirty (30) Seconds; Active Recovery - Both Legs
+30#3. One (1) Minute; Zone 2 - Left Leg Only
+120#3. Two (2) Minutes; Active Recovery 
+0#Cadence Builder: Up Pyramid; Increasing Cadence, Start Zone 2, Build Up
+300#1. Five (5) Minutes Zone 2; Cadence 90
+120#1. Two (2) Minute Active Recovery
+240#2. Four (4) Minutes ; Cadence 95 
+120#2. Two (2) Minute Active Recovery
+180#3. Three (3) Minutes; Cadence 100
+60#3. One (1) Minute Active Recovery
+120#4. Two (2) Minutes; Cadence 105 
+60#4. One (1) Minute Active Recovery
+60#5. One (1) Minute; Cadence 110
+180#5. Three (3) Minutes; Active Recovery
+0#Power Builder: Down Pyramid; Decreasing Resistance, Start Zone 4  (Shift 4 cogs down)
+60#1. One (1) Minutes Zone 2, Cadence 90, 
+60#1. One (1) Minute Active Recovery
+120#2. Two (2) Minutes, Cadence 90; Shift Up One Cog
+60#2. One (1) Minute Active Recovery
+180#3. Three (3) Minutes Zone 3, Cadence 90; Shift Up One Cog
+60#3. Two (2) Minute Active Recovery
+240#4. Four (4) Minutes Zone 3, Cadence 90; Shift Up One Cog
+120#4. Two (2) Minutes Active Recovery
+0#Cool Down: Four (4) minutes: 2 Minute Zone 2; 2 Minutes Zone 1;
+120#Two Minutes at Zone 2
+120#Two Minutes at Zone 1
+0#Stretching: The Four Stretches
+15#1. Standing Twist
+15#2. Abdominal Stretch
+15#3. Thread the Needle
+15#4. Off the back Leg Stretcher
+

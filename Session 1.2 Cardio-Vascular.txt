@@ -1,0 +1,45 @@
+3700#Warm Up: Six (6) minutes:  Zone 2; Zone 3; Zone 4
+120#Two (2) Minutes at Zone 2
+120#Two (2) Minutes at Zone 3
+120#Two (2) Minutes at Zone 4
+120#Two (2) Minutes Active Recovery 
+0#Max Cadence: Increasing Cadence, Constant Resistance Set, Easy Gear
+60#1. One (1) Minute Zone 2, Cadence 90
+60#1. One (1) Minute Zone 2, Cadence 95
+60#1. One (1) Minute Zone 2 Cadence 100
+60#1. One (1) Minute Zone 2 Cadence 105
+60#1. One (1) Minute Zone 2, Cadence 110
+60#1. One (1) Minute Zone 2, Cadence 115
+120#1. Two (2) Minutes Active Recovery
+0#Max Respiration: Increasing Cadence, Constant Resistance, Four Times
+120#1. Two (2) Minutes Zone 4, Max Cadence - Build up to it
+120#1. Two (2)) Minutes Active Recovery
+180#2. Three (3) Minutes Zone 4, Max Cadence - Build up to it
+180#2. Three (3) Minutes Active Recovery
+240#3. Four (4) Minutes Zone 4, Max Cadence - Build up to it
+240#3. Four (4) Minutes Active Recovery
+300#4. Five (5) Minutes Zone 4, Max Cadence - Build up to it
+300#4. Five (5) Minutes Active Recovery
+0#Quick Recovery: Six (6) Sets: Zone 4; Active Rest
+60#1. One (1) Minute Zone 4 Cadence 90
+30#1. Thirty (30) Seconds Active Recovery 
+60#2. One (1) Minute Zone 4 Cadence 95
+30#2. Thirty (30) Seconds Active Recovery
+60#3. One (1) Minute Zone 4 Cadence 100
+30#3. Thirty (30) Seconds Active Recovery
+60#4. One (1) Minute Zone 4 Cadence 105
+30#4. Thirty (30) Seconds Active Recovery
+60#5. One (1) Minute Zone 4 Cadence 110
+60#5. One (1) Minute Active Recovery
+60#6. One (1) Minute Zone 4 Max Leg Speed
+180#6. Three (3) Minutes, Active Recovery
+0#Cool Down: Four (4) minutes: Zone 2;  Zone 1;
+120#Two minutes at Zone 2
+120#Two minutes at Zone 1
+0#Stretching: The Four Stretches
+15#1. Standing Twist
+15#2. Abdominal Stretch
+15#3. Thread the Needle
+15#4. Off the back Leg Stretcher
+
+

@@ -1,0 +1,63 @@
+3540#Warm Up: Six (6) minutes:  2 minute at Zone 2, 3, 4
+120#Two (2) Minutes at Zone 2
+120#Two (2) Minutes at Zone 3
+120#Two (2) Minutes at Zone 4
+120#Two (2) Minutes Active Recovery 
+0#Sprints: Five (5) Sprint Sets: High Intensity Sprints
+60#1. One (1) Minute; Max Cadence, Zone 3
+60#1. One (1) Minute; Active Recovery
+60#2. One (1) Minute; Max Cadence, Zone 3
+60#2. One (1) Minute; Active Recovery
+60#3. One (1) Minute; Max Cadence, Zone 3
+60#3. One (1) Minute; Active Recovery
+60#4. One (1) Minute; Max Cadence, Zone 3
+60#4. One (1) Minute; Active Recovery
+60#5. One (1) Minute; Max Cadence, Zone 3
+60#5. One (1) Minute; Active Recovery
+0#Climbing: Five (5) Climbing Sets: High Intensity Climbing
+60#1. One (1) Minute; 12 Tooth Cog, Zone 3
+60#1. One (1) Minute; Active Recovery
+60#2. One (1) Minute; 12 Tooth Cog, Zone 3
+60#2. One (1) Minute; Active Recovery
+60#3. One (1) Minute; 12 Tooth Cog, Zone 3
+60#3. One (1) Minute; Active Recovery
+60#4. One (1) Minute; 12 Tooth Cog, Zone 3
+60#4. One (1) Minute; Active Recovery
+60#5. One (1) Minute; 12 Tooth Cog, Zone 3
+60#5. One (1) Minute; Active Recovery
+60#6. One (1) Minute; 12 Tooth Cog, Zone 3
+60#6. One (1) Minute; Active Recovery
+0#One Leg Drill: Six (5) Sets: Right Leg, Left Leg
+60#1. One (1) Minute; Right Leg, Zone 3
+60#1. One (1) Minute; Active Recovery
+60#2. One (1) Minute; Left Leg, Zone 3
+60#2. One (1) Minute; Active Recovery
+60#3. One (1) Minute; Right Leg, Zone 3
+60#3. One (1) Minute; Active Recovery
+60#4. One (1) Minute; Left Leg Cog, Zone 3
+60#4. One (1) Minute; Active Recovery
+60#5. One (1) Minute; Right Leg Zone 3
+60#5. One (1) Minute; Active Recovery
+60#6. One (1) Minute; Left Leg Zone 3
+60#6. One (1) Minute; Active Recovery
+0#Standing: Six (6) Standing Sets: High Cadence Standing
+60#1. One (1) Minute; 15 Tooth Cog, High Cadence, Zone 3
+60#1. One (1) Minute; Active Recovery
+60#2. One (1) Minute;  15 Tooth Cog, High Cadence, Zone 3
+60#2. One (1) Minute; Active Recovery
+60#3. One (1) Minute;  15 Tooth Cog, High Cadence, Zone 3
+60#3. One (1) Minute; Active Recovery
+60#4. One (1) Minute; 15 Tooth Cog, High Cadence, Zone 3
+60#4. One (1) Minute; Active Recovery
+60#5. One (1) Minute;  15 Tooth Cog, High Cadence, Zone 3
+60#5. One (1) Minute; Active Recovery
+60#6. One (1) Minute;  15 Tooth Cog, High Cadence, Zone 3
+60#6. One (1) Minute; Active Recovery
+0#Cool Down: Four (4) minutes: 2 Minute Zone 2; 2 Minutes Zone 1;
+120#Two Minutes at Zone 2
+120#Two Minutes at Zone 1
+0#Stretching: The Four Stretches
+15#1. Standing Twist
+15#2. Abdominal Stretch
+15#3. Thread the Needle
+15#4. Off the back Leg Stretcher

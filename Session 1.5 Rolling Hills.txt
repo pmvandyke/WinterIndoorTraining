@@ -1,0 +1,67 @@
+3700#Warm Up: Six (6) minutes:  Zone 2;  Zone 3;  Zone 4
+120#Two (2) Minutes start at Zone 1, Increase to Zone 2
+120#Two (2) Minutes start at Zone 2, Increase to Zone 3
+120#Two (2) Minutes start at Zone 3, Increase to Zone 4
+120#Two (2) Minutes Active Recovery
+0#Gradual Hills: Four (4) Gradual Hills
+180#1. Three (3) Minutes Zone 2, Cadence 80, Uphill
+60#1. One (1) Minute Zone 3, Standing, Cadence 70, Crest the Top
+60#1. One (1) Minute Zone 3. Cadencee 100, Down Hill
+180#2. Three (3) Minutes Zone 2, Cadence 80, Uphill
+60#2. One (1) Minute Zone 3, Standing, Cadence 70, Crest the Top
+60#2. One (1) Minute Zone 3. Cadencee 100, Down Hill
+180#3. Three (3) Minutes Zone 2, Cadence 80, Uphill
+60#3. One (1) Minute Zone 3, Standing, Cadence 70, Crest the Top
+60#3. One (1) Minute Zone 3. Cadencee 100, Down Hill
+180#4. Three (3) Minutes Zone 2, Cadence 80, Uphill
+60#4. One (1) Minute Zone 3, Standing, Cadence 70, Crest the Top
+60#4. One (1) Minute Zone 3. Cadencee 100, Down Hill
+120#4. Two (2) Minutes Active Recovery
+0#Rolling Hills: Four (4) Rolling Hills
+60#1. One (1) Minute Zone 2, Cadence 90, Starting Up Hill
+60#1. One (1) Minute Zone 3, Cadence 80, Shift down, Getting Steeper
+30#1. Thirty (30) Seconds Zone 4, Shift Down, Cadence 70
+30#1. Thirty (30) Seconds Zone 4, Cadence 60 Standing, Crest of Hill
+60#1. One (1) Minute Zone 3, Shift up, Cadence 100, Down Hill
+30#1. Thirty (30) Seconds Zone 4, shift up, Cadence 110, Bottom of the Hilll
+60#2. One (1) Minute Zone 2, Cadence 90, Starting Up Hill
+60#2. One (1) Minute Zone 3, Cadence 80, Shift down, Getting Steeper
+30#2. Thirty (30) Seconds Zone 4, shift down, Cadence 70
+30#2. Thirty (30) Seconds Zone 4, Cadence 60 Standing, Crest or Hill
+30#2. Thirty (30) Seconds Zone 2, over the top
+60#2. One (1) Minute Zone 3, Shift up, Cadence 100, Down Hill
+30#2. Thirty (30) Seconds Zone 4, shift up, Cadence 110, Bottom of the Hilll
+60#3. One (1) Minute Zone 2, Cadence 90, Starting Up Hill
+60#3. One (1) Minute Zone 3, Cadence 80, Shift down, Getting Steeper
+30#3. Thirty (30) Seconds Zone 4, shift down, Cadence 70
+30#3. Thirty (30) Seconds Zone 4, Cadence 60 Standing, Crest or Hill
+30#3. Thirty (30) Seconds Zone 2, over the top
+60#3. One (1) Minute Zone 3, Shift up, Cadence 100, Down Hill
+30#3. Thirty (30) Seconds Zone 4, shift up, Cadence 110, Bottom of the Hilll
+60#4. One (1) Minute Zone 2, Cadence 90, Starting Up Hill
+60#4. One (1) Minute Zone 3, Cadence 80, Shift down, Getting Steeper
+30#4. Thirty (30) Seconds Zone 4, shift down, Cadence 70
+30#4. Thirty (30) Seconds Zone 4, Cadence 60 Standing, Crest or Hill
+30#4. Thirty (30) Seconds Zone 2, over the top
+60#4. One (1) Minute Zone 3, Shift up, Cadence 100, Down Hill
+30#4. Thirty (30) Seconds Zone 4, shift up, Cadence 110, Bottom of the Hilll
+60#4. One (1) Minutes Active Recovery
+0#Short Steep Hills: Five Short Steep Hills
+45#1. Forty Five (45) Seconds, Zone 3, Cadence 70
+15#1. Fifteen (15) Seconds, Zone 4, Standing, Cadence 50
+30#1. Thirty (30) Seconds, Zone 2, Cadeence 100+, Down Hill
+45#2. Forty Five (45) Seconds, Zone 3, Cadence 70
+15#2. Fifteen (15) Seconds, Zone 4, Standing, Cadence 50
+30#2. Thirty (30) Seconds, Zone 2, Cadeence 100+, Down Hill
+45#3. Forty Five (45) Seconds, Zone 3, Cadence 70
+15#3. Fifteen (15) Seconds, Zone 4, Standing, Cadence 50
+30#3. Thirty (30) Seconds, Zone 2, Cadeence 100+, Down Hill
+60#3. One (1) Minute Active Recovery
+0#Cool Down: Four (4) minutes: 2 Minute Zone 2; 2 Minutes Zone 1;
+120#Two Minutes at Zone 2
+120#Two Minutes at Zone 1
+0#Stretching: The Four Stretches
+15#1. Standing Twist
+15#2. Abdominal Stretch
+15#3. Thread the Needle
+15#4. Off the back Leg Stretcher

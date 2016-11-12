@@ -1,0 +1,24 @@
+3700#Warm Up: Six (6) minutes:  2 minute Zone 2; 2 minutes Zone 3; 2 minute Zone 4
+120#Two (2) Minutes at Zone 2
+120#Two (2) Minutes at Zone 3
+120#Two (2) Minutes at Zone 4
+120#Two (2) Minutes Active Recovery 
+0#Time Trial : Nine (9) Five (5) Minute Intervals
+300#1. Five (5) Minutes Zone 2; Cadence 80
+300#1. Five (5) Minutes Zone 3; Cadence 90
+300#1. Five (5) Minutes Zone 4; Cadence 95
+300#1. Five (5) Minutes Zone 2; Cadence 90+
+300#1. Five (5) Minutes Steep Down Hill - Zone 2, Cadence 100
+300#1. Five (5) Minutes Zone 3; Cadence 60; Up Hill Climbing
+300#1. Five (5) Minutes Zone 2; Cadence 85
+300#1. Five (5) Minutes Zone 4; Cadence 95
+300#1. Five (5) Minutes Zone 3; Cadence 90
+180#1. Three (3) Minutes Active Recovery
+0#Cool Down: Four (4) minutes: 2 Minute Zone 2; 2 Minutes Zone 1;
+120#Two Minutes at Zone 2
+120#Two Minutes at Zone 1
+0#Stretching: The Four Stretches
+15#1. Standing Twist
+15#2. Abdominal Stretch
+15#3. Thread the Needle
+15#4. Off the back Leg Stretcher

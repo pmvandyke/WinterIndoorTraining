@@ -1,0 +1,53 @@
+3700#Warm Up: Six (6) minutes:  Zone 2;  Zone 3;  Zone 4
+120#Two (2) Minutes at Zone 2
+120#Two (2) Minutes at Zone 3
+120#Two (2) Minutes at Zone 4
+120#Two (2) Minutes Active Recovery 
+0#Small Gears: Four (4) Sets: Three (3) Minutes Zone 2;  Active Recovery
+180#1. Three (3) Minutes Zone 2, Cadence 85
+60#1. One (1) Minute Active Recovery 
+180#2. Three (3) Minutes Zone 2, Cadence 80
+60#2. One (1) Minute Active Recovery
+180#3. Three (3) Minutes Zone 2, Cadence 75
+60#3. One (1) Minute Active Recovery
+180#4. Three (3) Minutes Zone 2, Cadence 70
+60#4. One (1) Minute Active Recovery
+0#Low Cadence: Three (3) Steps Increasing by 1 Minute
+180#1. Three (3) Minutes; Upper Zone 2, Cadence 55
+60#1. One (1) Minute Active Recovery
+240#2. Four (4) Minutes; Upper Zone 2, Cadence 60
+60#2. One (1) Minute Active Recovery
+300#3. Five (5) Minutes; Upper Zone 2, Cadence 65
+60#3. One (1) Minute Active Recovery
+0#Leg Resting: Four (4) Sets: Right leg, Left Leg
+40#1. Fourty (40) Seconds Zone 2 - Right Leg, Cadence 80
+20#1. Twenty (20) Seconds; Active Recovery
+40#1. Fourty (40) Seconds Zone 2 - Left Leg, Cadence 80
+20#1. Twenty (20) Seconds; Active Recovery
+40#2. Fourty (40) Seconds Zone 2 - Right Leg, Cadence 80
+20#2. Twenty (20) Seconds; Active Recovery
+40#2. Fourty (40) Seconds Zone 2 - Left Leg, Cadence 80
+20#2. Twenty (20) Seconds; Active Recovery
+40#3. Fourty (40) Seconds Zone 2 - Right Leg, Cadence 80
+20#3. Twenty (20) Seconds; Active Recovery
+40#3. Fourty (40) Seconds Zone 2 - Left Leg, Cadence 80
+20#3. Twenty (20) Seconds; Active Recovery
+40#4. Fourty (40) Seconds Zone 2 - Right Leg, Cadence 80
+20#4. Twenty (20) Seconds; Active Recovery
+40#4. Fourty (40) Seconds Zone 2 - Left Leg, Cadence 80
+20#4. Twenty (20) Seconds; Active Recovery
+0#Standing: Four (4) Sets: Zone 3; Active Recovery
+120#1. Two (2) Minutes Zone 3, Cadence 80 Standing
+60#1. One (1) Minute Active Recovery
+120#2. Two (2) Minutes Zone 3, Cadence 70, Standing
+60#2. One (1) Minute Active Recovery
+120#3. Two (2) Minutes Zone 3, Cadence 75, Standing
+60#3. One (1) Minute Active Recovery
+0#Cool Down: Four (4) minutes: 2 Minute Zone 2; 2 Minutes Zone 1;
+120#Two Minutes at Zone 2
+120#Two Minutes at Zone 1
+0#Stretching: The Four Stretches
+15#1. Standing Twist
+15#2. Abdominal Stretch
+15#3. Thread the Needle
+15#4. Off the back Leg Stretcher

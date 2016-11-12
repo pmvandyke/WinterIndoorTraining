@@ -1,0 +1,71 @@
+3510#Warm Up: Six (6) minutes:  2 minute at Zone 2, 3, 4
+120#Two (2) Minutes at Zone 2
+120#Two (2) Minutes at Zone 3
+120#Two (2) Minutes at Zone 4
+120#Two (2) Minutes Active Recovery 
+0#One Leg Drill: Two (2) Sets: Right leg, Left Leg
+60#1. One (1) Minute; Zone 2+,  Right Leg Only
+60#1. One (1) Minute; Zone 2+, Left Leg Only
+30#1. Thirty (30) Seconds; Active Recovery - Both Legs
+60#2. One (1) Minute; Zone 2+,  Right Leg Only
+60#2. One (1) Minute; Zone 2+, Left Leg Only
+30#2. Thirty (30) Seconds; Active Recovery - Both Legs
+0#Sprints: Four (4) Sets: Max Effort (Small Cog)
+60#1. One (1) Minutes; Max Effort - Seated
+30#1. Thirty (30) Seconds; Active Recovery
+60#2. One (1) Minutes; Max Effort - Standing
+30#2. Thirty (30) Seconds; Active Recovery
+60#3. One (1) Minutes; Max Effort - Seated
+30#3. Thirty (30) Seconds; Active Recovery
+60#4. One (1) Minutes; Max Effort  - Standing
+30#4. Thirty (30) Seconds; Active Recovery
+60#Spin Up: 1. One (1) Minute, Cadence 90, Small Ring
+10#1. Ten (10) Seconds, Cadence 100
+10#1. Ten (10) Seconds, Cadence 110
+10#1. Ten (10) Seconds, Cadence 120  (No Bouncing!)
+60#2. One (1) Minute, Cadence 90, Small Ring
+10#2. Ten (10) Seconds, Cadence 100
+10#2. Ten (10) Seconds, Cadence 110
+10#2. Ten (10) Seconds, Cadence 120  (No Bouncing!)
+60#3. One (1) Minute, Cadence 90, Small Ring
+10#3. Ten (10) Seconds, Cadence 100
+10#3. Ten (10) Seconds, Cadence 110
+10#3. Ten (10) Seconds, Cadence 120  (No Bouncing!)
+30#4. Thirty (30) Seconds; Active Recovery
+0#Cadence Builder: Up Pyramid; Increasing Cadence, Zone 3
+180#1. Three (3) Minutes; Cadence 100
+60#1. One (1) Minute Active Recovery
+120#2. Two (2) Minutes; Cadence 105 
+60#2. One (1) Minute Active Recovery
+60#3. One (1) Minute; Cadence 110
+180#3. Three (3) Minutes; Active Recovery
+0#Sprints: Four (4) Sets: Max Effort (Small Cog)
+90#1. One (1) Minutes; Max Effort
+30#1. Thirty (30) Seconds; Active Recovery
+90#2. One (1) Minutes; Max Effort
+30#2. Thirty (30) Seconds; Active Recovery
+90#3. One (1) Minutes; Max Effort
+30#3. Thirty (30) Seconds; Active Recovery
+90#4. One (1) Minutes; Max Effort
+30#4. Thirty (30) Seconds; Active Recovery
+0#High / Low Sprints: Four (4) Sets: Standing: Big Ring; Sprinting: Small Ring
+60#1. One (1) Minute; Standing, Cadence 60
+60#1. One (1) Minute; Seated, Cadence 100
+30#1. Thirty (30) Seconds; Active Recovery
+60#2. One (1) Minute; Standing, Cadence 60
+60#2. One (1) Minute; Seated, Cadence 100
+30#2. Thirty (30) Seconds; Active Recovery
+60#3. One (1) Minute; Standing, Cadence 60
+60#3. One (1) Minute; Seated, Cadence 100
+30#3. Thirty (30) Seconds; Active Recovery
+60#4. One (1) Minute; Standing, Cadence 60
+60#4. One (1) Minute; Seated, Cadence 100
+60#4. One (1) Minute; Active Recovery
+0#Cool Down: Four (4) minutes: 2 Minute Zone 2; 2 Minutes Zone 1;
+120#Two Minutes at Zone 2
+120#Two Minutes at Zone 1
+0#Stretching: The Four Stretches
+15#1. Standing Twist
+15#2. Abdominal Stretch
+15#3. Thread the Needle
+15#4. Off the back Leg Stretcher

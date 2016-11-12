@@ -1,0 +1,55 @@
+3540#Warm Up: Six (6) minutes:  2 minute at Zone 2, 3, 4
+120#Two (2) Minutes at Zone 2
+120#Two (2) Minutes at Zone 3
+120#Two (2) Minutes at Zone 4
+120#Two (2) Minutes Active Recovery 
+0#Long Up Hill: Three (3) Sets: Increasing Zones, Bg Ring - Smaller Cogs
+120#1. Two (2) Minutes; Zone 2, Cadence 90
+120#1. Two (2) Minutes; Zone 2 increasing to 3, Shift to Smaller Cog
+120#1. Two (2) Minutes; Zone 3 Increasing to 4, Shift to Smaller Cog
+60#1. One (1) Minute; Zone 4, Hold The Effort
+60#1. One (1) Minute; Zone 4, Sprint Max Effort
+120#1. Two (2) Minutes; Active Recovery
+120#2. Two (2) Minutes; Zone 2, Cadence 90
+120#2. Two (2) Minutes; Zone 2 increasing to 3, Shift to Smaller Cog
+120#2. Two (2) Minutes; Zone 3 Increasing to 4, Shift to Smaller Cog
+60#2. One (1) Minute; Zone 4, Hold The Effort
+60#2. One (1) Minute; Zone 4, Sprint Max Effort
+120#2. Two (2) Minutes; Active Recovery
+120#3. Two (2) Minutes; Zone 2, Cadence 90
+120#3. Two (2) Minutes; Zone 2 increasing to 3, Shift to Smaller Cog
+120#3. Two (2) Minutes; Zone 3 Increasing to 4, Shift to Smaller Cog
+60#3. One (1) Minute; Zone 4, Shift to Smaller Cog
+60#3. One (1) Minute; Zone 4, Sprint Max Effort
+120#3. Two (2) Minutes; Active Recovery
+0#Steep Up Hill: Four(4) Sets:  Increasing Zones, Big Ring; Smaller Cogs, Standing
+20#1. Twenty (20) Seconds; Standing, Zone 3, Cadence 70 
+70#1. Seventy (70) Seconds; Seated, Zone 3, Cadence 70
+70#1. Seventy (70) Seconds; Standing, Zone 3, Cadence 70
+20#1. Twenty (20) Seconds; Seated, Zone 3, Cadence 70 
+60#1. One (1) Minute; Active Recovery
+20#2. Twenty (20) Seconds; Standing, Zone 3, Cadence 70 
+70#2. Seventy (70) Seconds; Seated, Zone 3, Cadence 70
+70#2. Seventy (70) Seconds; Standing, Zone 3, Cadence 70
+20#2. Twenty (20) Seconds; Seated, Zone 3, Cadence 70 
+60#2. One (1) Minute; Active Recovery
+20#3. Twenty (20) Seconds; Standing, Zone 3, Cadence 70 
+70#3. Seventy (70) Seconds; Seated, Zone 3, Cadence 70
+70#3. Seventy (70) Seconds; Standing, Zone 3, Cadence 70
+20#3. Twenty (20) Seconds; Seated, Zone 3, Cadence 70 
+60#3. One (1) Minute; Active Recovery
+20#4. Twenty (20) Seconds; Standing, Zone 3, Cadence 70 
+70#4. Seventy (70) Seconds; Seated, Zone 3, Cadence 70
+70#4. Seventy (70) Seconds; Standing, Zone 3, Cadence 70
+20#4. Twenty (20) Seconds; Seated, Zone 3, Cadence 70 
+60#4. One (1) Minute; Active Recovery
+0#Cool Down: Four (4) minutes: 2 Minute Zone 2; 2 Minutes Zone 1;
+120#Two Minutes at Zone 2
+120#Two Minutes at Zone 1
+0#Stretching: The Four Stretches
+15#1. Standing Twist
+15#2. Abdominal Stretch
+15#3. Thread the Needle
+15#4. Off the back Leg Stretcher
+
+15#4. Off the back Leg Stretcher
